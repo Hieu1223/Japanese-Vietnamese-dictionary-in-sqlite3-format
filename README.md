@@ -1,3 +1,4 @@
-Japanese-Vietnamese dictionary in sqlite3 database
+Japanese-Vietnamese dictionary
 TODO:
  Translate the unstraslated english text to vietnamese
+ Add kanji
